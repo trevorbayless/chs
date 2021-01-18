@@ -38,6 +38,9 @@ There are a few things you can do while playing:
 * Take back your last move by playing `back` instead of a valid move.
 * Get a hint from the engine by playing `hint` instead of a valid move.
 
+### Notes
+If you are running `chs` on Windows and the chess pieces are not being rendered, change your console font to one that supports the glyphs used (such as `MS Gothic`).
+
 ## License
 
 This software is free to use under the MIT License. See [this reference](https://opensource.org/licenses/MIT) for license text and copyright information.
